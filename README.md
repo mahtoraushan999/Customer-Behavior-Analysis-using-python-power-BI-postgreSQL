@@ -88,7 +88,7 @@ This dashboard highlights key insights including customer segmentation, revenue 
 
 Clone this repository:
 
-git clone https://[github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](https://github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL).git
+git clone https://[github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](https://github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL.git)
 cd Customer-Behavior-Analysis-using-python-power-BI-postgreSQL
 
 
